@@ -16,7 +16,7 @@ namespace Tyuiu.PaulikKV.Sprint4.Task1.V28
             Console.Title = "Спринт #4 | Выполнил: Паулик К.В. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы циклической структуры  C#                               *");
+            Console.WriteLine("* Тема: Обработка структурных типов                                       *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
             Console.WriteLine("* Выполнил: Паулик Кирилл Владимирович | АСОиУб-23-3                      *");
